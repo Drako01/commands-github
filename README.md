@@ -199,7 +199,7 @@ Muestra una lista de todos los tags
 ```
 Crea un nuevo tags
 ```ssh
-	git tag -a <verison> - m "esta es la versión x"
+	git tag -a <version> - m "esta es la versión x"
 ```
 ## GIT REBASE
 
