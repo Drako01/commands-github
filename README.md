@@ -274,3 +274,9 @@ Merge con master de un fork
 	git fetch upstream
 	git merge upstream/master
 ```
+
+
+<div align="center" ><br>
+ <img src="git-desarrollo-EdIT.png" height="auto" width="600" border-radius= "20px";/> 
+ <br>
+ </div>
