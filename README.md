@@ -1,7 +1,7 @@
 # GIT
 
 <p align="center">
-	<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width=160/><br>
+	<img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" width=160/>
 	<img src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png" alt="Git" width=160/>
 </p>
 
